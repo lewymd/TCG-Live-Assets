@@ -1,0 +1,20 @@
+g SM_VFX_MetalBoard_SlashLeft
+v -1 1 0
+v 1 1 0
+v -1 -1 0
+v -2 -1 0
+v -2 1 0
+vt 0.25 1
+vt 0.75 1
+vt 0.25 0
+vt 0 0
+vt 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+vn 0 0 1
+g SM_VFX_MetalBoard_SlashLeft_0
+f 3/3/3 2/2/2 1/1/1
+f 3/3/3 1/1/1 4/4/4
+f 1/1/1 5/5/5 4/4/4

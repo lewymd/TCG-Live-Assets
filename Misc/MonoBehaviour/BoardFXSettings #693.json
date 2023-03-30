@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 719936485180401770
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7902875390179630572
+  },
+  "m_Name": "",
+  "fxMode": 4,
+  "fxLayer": 0,
+  "timeUntilDespawn": 4.0,
+  "timeUntilDissolve": 3.0
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1105419751536209591
+  },
+  "m_Name": "MaterialManifest_ph",
+  "_v": 0,
+  "_m": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_c": "ec_en_017",
+  "_e": "",
+  "_w": "ec_wp_ph_en_017",
+  "_s": "Cards/Foil/HoloFoil_AngledPillars_Amplify_J",
+  "_p": "Assets/Cards/FullCard/EC/EN/017/ec_en_017_ap_h_ph.mat",
+  "_f": "HoloFoil_AngledPillars_Amplify_J",
+  "_options": 0
+}
